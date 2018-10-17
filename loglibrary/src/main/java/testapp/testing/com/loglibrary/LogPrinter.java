@@ -12,6 +12,11 @@ public class LogPrinter {
     }
 
 
+    public static final void printNames()
+    {
+
+        Log.d("printNames","=====printNames====printed=");
+    }
 
 
 }
